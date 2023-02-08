@@ -27,10 +27,10 @@ git clone https://github.com/apolpdga/Restaurant-List
 ```
 #### 2.安裝 npm 套件
 ```
-(1) cd Restaurant-CRUD //切至專案資料夾
+(1) cd Restaurant-List //切至專案資料夾
 (2) npm install //安裝套件 npm 套件
 ```
-#### 3.安裝 express 套件
+#### 3.使用 npm 安裝 express 套件
 ```
 npm i express@4.16.4
 ```
